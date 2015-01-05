@@ -1,4 +1,4 @@
-openstack-scripts
+OpenStack Scripts
 =================
 
 Simple scripts for openstack routines
